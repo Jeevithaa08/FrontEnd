@@ -1,0 +1,125 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passecury</title>
+    <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPgXUVAN3GxLKeSPalPkKCox6yhbL1-WaofA&s">
+</head> <style>
+        h1{
+            color:cornsilk;
+            background-color:black;
+        }
+        h2{
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color:crimson;
+            font-size:xxx-large;
+
+        }
+        div{
+            line-height:0.0;
+        }
+        h4{
+            font-style:calc();
+            font-size: xx-large;
+            color:chocolate;
+            ;
+        }
+        p{
+            font-style: italic;
+            font-size: x-large;
+            line-height: 1.3;
+        }
+        h3{
+            font-size:xxx-large;
+            background-color: blanchedalmond;
+        }
+        h5{
+            font-size: xx-large;
+            
+        }
+        h6{
+            font-size:xx-large;
+        }
+        ul{
+            font-size:x-large;
+        }
+    </style>
+    <body bgcolor="lightyellow">
+    <center>
+    <h1>Secure Password Management</h1><hr>
+    <h2>PASSECURY🔒</h2>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJEyF0WuaiAWo4DBv-ztAmBb6Rcm3fUJiMgA&s" width="700px" height="300px"><br><br>
+    
+    </center>
+    <div>
+        <h4>WHAT IS PASSECURY!?</h4>
+        <P>PASSECURY is the practice of using strong passwords to protect devices, accounts and files from unauthorized access. This is a Technique that is used to keep important data save and secure from hackors. By ensuring it can only be accessed with a right credentials.  Today, password Management is a critical part of the IT policy of most organization.  Password management solutions ensure robust cyber security as well as convenience for home and enterprise users alike.</P>
+    </div>
+    <div class="hh">
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSicKoK2MFiX_wTekXE4kSc2zfo4OS5oGBzUw&s" height="300px" width="650px">
+        <h3>Have You Ever been Hacked!?  Do you need solution!?</h3>
+        <h5>No worries..</h5>
+        <h6>We are here to save you!..</h6>
+       
+    </center><hr>
+    </div>
+    
+    <h4>Benefits of PASSECURY:-</h4>
+        <ul>
+            <li>Store all your passwords securely</li>
+           <li> Dont have to worry about forgetting them</li>
+           <li> Helps to protect data from Malicious software</li>
+           <li>Prevents from hacking</li>
+            <li>This is User-Friendly </li>
+           </ul>
+<center>
+           <h5>To access PASSECURY, <a href="form.html">Register.</a> You dont have to worry about any issues hereafter.</h5>
+</center>
+
+    
+</div>
+
+
+
+<footer>
+  <p>For further Enquries refer below</p>
+  <ul>
+    <li>Contact Us: 81229 63149 | 98651 92090 </li><br>
+    <li>Email: 2322ka44@kgcas.com | 2322ka22@kgcas.com</li><br>
+    <li>Address: KGISL Campus, Thudiyalur road, Saravanampatti, Coimbatore - 35.</li>
+  </ul>
+</footer>
+
+
+
+<style>
+footer {
+  background-color:darkgray;
+  padding: 20px;
+  text-align: center;
+  clear: both;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #666;
+}
+</style>
+
+
+</body>
+</html>
